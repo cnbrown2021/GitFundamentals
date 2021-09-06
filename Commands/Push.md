@@ -1,6 +1,6 @@
 # git push
 
-When you have a [remote](./REMOTE.MD) set up you'll need to begin to move [commits](./COMMIT.md) to the remote.
+When you have a [remote](./Remote.MD) set up you'll need to begin to move [commits](./Commit.md) to the remote.
 This can be done with the command `git push`.
 
 You can attach a name and branch name to your command to specify where you're pushing to.
