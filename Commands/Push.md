@@ -14,7 +14,7 @@ This means any commits that are in your local will be **pushed** to the remote
 ###Upstream Tracking
 
 Instead of including the name of the remote and the branch you're on every time, you can set local branches to track an upstream branch.
-This means you can tell the branch to push to its assigned upstream remote branch by using the command `git puch`.
+This means you can tell the branch to push to its assigned upstream remote branch by using the command `git push`.
 
 Before doing so, you'll need to use the `-u` or `--set-upstream` flag. This can be done on any `git push`.
 
